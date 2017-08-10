@@ -114,48 +114,48 @@
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/auth/authpb",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/client",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/clientv3",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/etcdserver/api/v3rpc/rpctypes",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/etcdserver/etcdserverpb",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/mvcc/mvccpb",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/pkg/pathutil",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/pkg/tlsutil",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/coreos/etcd/pkg/types",
-			"Comment": "v3.1.0-alpha.1-49-gc349e08",
-			"Rev": "c349e089b168e28629d0db6ac2819000abbaf6a7"
+			"Comment": "v3.1.0-alpha.1-58-gf455423",
+			"Rev": "f45542394b386ac651634008d7f9dc503b57c920"
 		},
 		{
 			"ImportPath": "github.com/fatih/structs",
